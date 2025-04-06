@@ -68,6 +68,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=adityx-reposit&icon=0&color=6" />
-</p>
