@@ -1,21 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on web3 and blockchain <br>🤝 I’m looking for help with open source projects<br>🌱 I’m currently learning web3 wallets creations<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adityx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityxcodes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_adityx_) 
-
-# 💻 Tech Stack:
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityx-reposit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityx-reposit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityx-reposit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityx-reposit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Adityx</h1>
+<p align="center">
+💻 Web3 Enthusiast | 🧠 Lifelong Learner | 🚀 Open Source Explorer
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityx-reposit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+🔭 I’m currently working on **Web3 and Blockchain**<br>  
+🤝 I’m looking to collaborate on **Open Source Projects**<br>  
+🌱 I’m currently diving deep into **Web3 Wallet Development**<br>
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://instagram.com/_adityx_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adityxcodes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/_adityx_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+## 💻 Tech Stack
+<div style="display: flex; flex-wrap: wrap; gap: 8px; padding: 10px; border-radius: 12px; background-color: #f0f8ff;">
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+
+</div>
+
+
+---
+
+## 📊 GitHub Stats  
+<p align="left display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityx-reposit&theme=blueberry&show_icons=true&hide_border=false" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityx-reposit&theme=blueberry&hide_border=false" width="95%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityx-reposit&theme=blueberry&layout=compact&hide_border=false" width="95%" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=adityx-reposit&limit=5&theme=blueberry&combine_all_yearly_contributions=true" width="100%" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=adityx-reposit&icon=0&color=6" />
+</p>
