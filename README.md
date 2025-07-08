@@ -11,7 +11,6 @@
 
 ## Code Stats
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityx-reposit&show_icons=true&theme=dark)  
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rinkitadhana&theme=dark)
 
 
 ## Visitor count
