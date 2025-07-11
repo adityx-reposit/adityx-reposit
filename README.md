@@ -15,22 +15,18 @@
 
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) 
   ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-
+  ![Rust](https://img.shields.io/badge/Rust-red?style=plastic&logo=rust&logoColor=white)
+  ![Node Js](https://img.shields.io/badge/Nodejs-green?style=plastic&logo=Node.js&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/Typescript-blue?style=plastic&logo=Typescript&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=plastic&logo=MongoDB&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-blue?style=plastic&logo=Solidity&logoColor=white)
+  ![react.js](https://img.shields.io/badge/React.js-orange?style=plastic&logo=react.js&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-red?style=plastic&logo=javascript&logoColor=white)
+  ![java](https://img.shields.io/badge/java-black?style=plastic&logo=java&logoColor=white)
+  ![MYSQL](https://img.shields.io/badge/MYSQL-green?style=plastic&logo=MYSQL&logoColor=black)
+  ![docker](https://img.shields.io/badge/docker-blue?style=plastic&logo=docker&logoColor=white)
+  ![web3](https://img.shields.io/badge/web3-red?style=plastic&logo=web3.js&logoColor=white)
 </div>
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adityx-reposit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
